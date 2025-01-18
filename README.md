@@ -11,7 +11,7 @@ Configuração para envio de logs de uma instância EC2 para o Amazon CloudWatch
 ## Pré-requistos
 
 >[!IMPORTANT]
->Habilite o Detailed Monitoring no Amazon CloudWatch ao lançar sua instância EC2, acessando o menu Additional Settings durante o processo de configuração.
+>Habilite o **Detailed Monitoring** no Amazon CloudWatch ao lançar sua instância EC2, acessando o menu **Advanced Details** durante o processo de configuração.
 
 
 ![00](https://github.com/user-attachments/assets/ebe7680e-9de2-44a4-af5b-ffc2e8197eb9)
